@@ -158,23 +158,47 @@ Alguns bugs podem ainda não ter sido descobertos.
 
 O projeto não possui garantia de estabilidade.
 
-🛠️ Como executar
+🎮 Como instalar e jogar
 
-Baixe o projeto.
+Baixe a versão para Windows na seção Releases do GitHub.
 
-Extraia o arquivo ZIP.
+Execute o arquivo .exe do jogo.
 
-Abra o Godot Engine 4.
+Na primeira inicialização, o jogo solicitará uma ROM original de Super Mario World.
 
-Importe o arquivo project.godot.
+Coloque sua ROM, obtida legalmente, na pasta indicada na tela do jogo.
 
-Aguarde a importação dos recursos.
+Renomeie o arquivo para baserom.sfc.
 
-Siga as instruções da configuração inicial e da seleção de controles.
+Volte ao jogo e pressione Enter no teclado ou A no controle para verificar a ROM.
 
-A compatibilidade entre versões do Godot ainda está sendo avaliada.
+Após a verificação, escolha a quantidade de jogadores e configure os controles.
 
-Este repositório não fornece ROMs de Super Mario World. Utilize somente recursos obtidos legalmente e respeite os direitos dos respectivos titulares.
+⚠️ Importante sobre a ROM
+
+O jogo não acompanha nenhuma ROM.
+
+É necessário utilizar uma cópia legítima e compatível de Super Mario World.
+
+A ROM precisa ter o nome exato baserom.sfc.
+
+Coloque a ROM na pasta mostrada pelo jogo, não necessariamente na mesma pasta do executável.
+
+ROMs incompatíveis serão rejeitadas pelo verificador.
+
+Esse funcionamento segue o sistema de verificação do Super Mario World Remastered original.
+
+🛠️ Para desenvolvedores
+
+O código-fonte também está disponível para quem deseja estudar, modificar ou contribuir com o projeto utilizando o Godot Engine.
+
+Quem quiser apenas jogar pode baixar o executável, sem precisar abrir o editor.
+
+🧪 Aviso
+
+Esta é uma versão EXPERIMENTAL, com suporte a até 8 jogadores e várias modificações.
+
+O jogo ainda pode apresentar bugs, travamentos, falhas gráficas e problemas de compatibilidade. Utilize por sua conta e risco e reporte os problemas encontrados.
 
 💾 Saves
 
